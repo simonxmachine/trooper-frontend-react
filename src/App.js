@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
 
-      <h1>test now frontend!!</h1>
+      <h1>Yooo test now frontend!!</h1>
   
     </div>
   );
